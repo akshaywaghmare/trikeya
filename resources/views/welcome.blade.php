@@ -10,7 +10,7 @@
 				<div class="swiper-container swiper-parent">
 					<div class="swiper-wrapper">
 						<!-- Slide 1 -->
-						<div class="swiper-slide  dark bg-color" style="background:  url('https://images.unsplash.com/photo-1441974231531-c6227db76b6e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1351&q=80') no-repeat center center; background-position: bottom; background-size: cover;">
+						<div class="swiper-slide  dark bg-color" style="background:  url('public/theme/images/resort/hero-bg.jpg') no-repeat center center; background-position: bottom; background-size: cover;">
 							<div class="container" style="z-index: 2;">
 								<div class="row h-100 align-items-center py-5">
 									<div class="col-md-6">
@@ -26,7 +26,7 @@
 						</div>
 
 						<!-- Slide 2 -->
-						<div class="swiper-slide dark bg-color" style="background:  url('http://themes.semicolonweb.com/html/canvas/one-page/images/page/tourism/hero.jpg') no-repeat center center; background-position: center; background-size: cover;">
+						<div class="swiper-slide dark bg-color" style="background:  url('public/theme/images/resort/hero-bg-3.jpg') no-repeat center center; background-position: bottom; background-size: cover;">
 							<div class="container" style="z-index: 2;">
 								<div class="row h-100 align-items-center py-5">
 									<div class="col-md-6">
@@ -59,7 +59,7 @@
 
 					<div class="container clearfix">
 
-						<h2 class="mx-auto bottommargin font-body" style="max-width: 700px; font-size: 40px;">Welcome To Trikaya Retreat - Kamshet</h2>
+						<h2 class="mx-auto bottommargin" style="max-width: 700px; font-size: 40px;">Welcome To Trikaya Retreat - Kamshet</h2>
 
 						<p class="lead mx-auto bottommargin" style="max-width: 800px;">Ford Foundation reduce child mortality fight against oppression refugee disruption pursue these aspirations effect. Free-speech Nelson Mandela change liberal; challenges of our times sustainability institutions.</p>
 
@@ -69,7 +69,7 @@
 						<div class="row  mx-auto" style="max-width: 1000px;">
 
 						<div class="col-md-12">
-                            <iframe width="560" height="315" src="https://www.dailymotion.com/embed/video/x1abbei" allowfullscreen></iframe>
+                            <iframe width="760" height="450" src="https://www.dailymotion.com/embed/video/x1abbei" allowfullscreen></iframe>
                         </div>
 
 						</div>
@@ -86,74 +86,97 @@
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta nesciunt tenetur iste odit animi mollitia amet autem alias ea dicta!</p>
 						</div>
 					</div>
+
+
+			
+
+
 					<div  class="section">
                         <div class="row no-gutters">
                             <div class="col-md-3">
                                 <div class="oc-item">
-                                    <div class="offer-section jumbotron m-0 dark p-5 d-flex justify-content-center align-items-md-end flex-column" style="height: 600px; border-radius: 0;background: linear-gradient(to bottom, rgba(0,0,0,0.1), rgba(0,0,0, 0.8)), url('public/theme/images/resort/service-1.jpg') no-repeat center center / cover;">
-                                        <div class="jumbotron-text mt-0 mt-md-auto row align-items-center">
-                                            <div class="col-md-12">
-                                                <div class="testimonial bg-transparent shadow-none border-0 p-0">
-                                                    <h2 class="mb-1"> Dweej - The ECO Villa </h2>
-                                                    <div class="testi-content">
-                                                        <p>Assertively leverage existing integrated communities after turnkey quality vectors. Assertively coordinate sustainable quality.</p>
-                                                    </div>
-                                                </div>
-                                               
-                                            </div>
-                                        </div>
-                                    </div>
+                                    <div class="offer-section jumbotron m-0 dark d-flex justify-content-center align-items-md-end flex-column" style="height: 600px; border-radius: 0;background: linear-gradient(to bottom, rgba(0,0,0,0.1), rgba(0,0,0, 0.8)), url('public/theme/images/resort/service-1.jpg') no-repeat center center / cover;">
+										<div class="offer-section-outer p-5 ">
+											<a href="" class="view-button">View</a>
+											<div class="jumbotron-text mt-0 mt-md-auto row align-items-center">
+												<div class="col-md-12">
+													<div class="testimonial bg-transparent shadow-none border-0 p-0">
+														<h2 class="mb-1"> Dweej - The ECO Villa </h2>
+														<div class="testi-content">
+															<p>Assertively leverage existing integrated communities after turnkey quality vectors. Assertively coordinate sustainable quality.</p>
+														</div>
+													</div>
+												
+												</div>
+											</div>
+										</div>
+									</div>
                                 </div>
-                            </div>
-                            <div class="col-md-3">
+							</div>
+							
+							<div class="col-md-3">
                                 <div class="oc-item">
-                                    <div class="offer-section jumbotron m-0 dark p-5 d-flex justify-content-center align-items-md-end flex-column" style="height: 600px; border-radius: 0;background: linear-gradient(to bottom, rgba(0,0,0,0.1), rgba(0,0,0, 0.8)), url('public/theme/images/resort/service-2.jpg') no-repeat center center / cover;">
-                                        <div class="jumbotron-text mt-0 mt-md-auto row align-items-center">
-                                            <div class="col-md-12">
-                                                <div class="testimonial bg-transparent shadow-none border-0 p-0">
-                                                    <h2 class="mb-1">Yahvi - The Forest Abode</h2>
-                                                    <div class="testi-content">
-                                                        <p>Assertively leverage existing integrated communities after turnkey quality vectors. Assertively coordinate sustainable quality.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
+                                    <div class="offer-section jumbotron m-0 dark d-flex justify-content-center align-items-md-end flex-column" style="height: 600px; border-radius: 0;background: linear-gradient(to bottom, rgba(0,0,0,0.1), rgba(0,0,0, 0.8)), url('public/theme/images/resort/service-2.jpg') no-repeat center center / cover;">
+										<div class="offer-section-outer p-5 ">
+											<a href="" class="view-button">View</a>
+											<div class="jumbotron-text mt-0 mt-md-auto row align-items-center">
+												<div class="col-md-12">
+													<div class="testimonial bg-transparent shadow-none border-0 p-0">
+														<h2 class="mb-1">Yahvi - The Forest Abode </h2>
+														<div class="testi-content">
+															<p>Assertively leverage existing integrated communities after turnkey quality vectors. Assertively coordinate sustainable quality.</p>
+														</div>
+													</div>
+												
+												</div>
+											</div>
+										</div>
+									</div>
                                 </div>
-                            </div>
-                            <div class="col-md-3">
+							</div>
+							
+							<div class="col-md-3">
                                 <div class="oc-item">
-                                    <div class="offer-section jumbotron m-0 dark p-5 d-flex justify-content-center align-items-md-end flex-column" style="height: 600px; border-radius: 0;background: linear-gradient(to bottom, rgba(0,0,0,0.1), rgba(0,0,0, 0.8)), url('public/theme/images/resort/service-3.jpg') no-repeat center center / cover;">
-                                        <div class="jumbotron-text mt-0 mt-md-auto row align-items-center">
-                                            <div class="col-md-12">
-                                                <div class="testimonial bg-transparent shadow-none border-0 p-0">
-                                                    <h2 class="mb-1">Camping In The Clouds</h2>
-                                                    <div class="testi-content">
-                                                        <p>Assertively leverage existing integrated communities after turnkey quality vectors. Assertively coordinate sustainable quality.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
+                                    <div class="offer-section jumbotron m-0 dark d-flex justify-content-center align-items-md-end flex-column" style="height: 600px; border-radius: 0;background: linear-gradient(to bottom, rgba(0,0,0,0.1), rgba(0,0,0, 0.8)), url('public/theme/images/resort/service-3.jpg') no-repeat center center / cover;">
+										<div class="offer-section-outer p-5 ">
+											<a href="" class="view-button">View</a>
+											<div class="jumbotron-text mt-0 mt-md-auto row align-items-center">
+												<div class="col-md-12">
+													<div class="testimonial bg-transparent shadow-none border-0 p-0">
+														<h2 class="mb-1">Camping In The Clouds</h2>
+														<div class="testi-content">
+															<p>Assertively leverage existing integrated communities after turnkey quality vectors. Assertively coordinate sustainable quality.</p>
+														</div>
+													</div>
+												
+												</div>
+											</div>
+										</div>
+									</div>
                                 </div>
-                            </div>
-                            <div class="col-md-3">
+							</div>
+							
+							<div class="col-md-3">
                                 <div class="oc-item">
-                                    <div class="  offer-section jumbotron m-0 dark p-5 d-flex justify-content-center align-items-md-end flex-column" style="height: 600px; border-radius: 0;background: linear-gradient(to bottom, rgba(0,0,0,0.1), rgba(0,0,0, 0.8)), url('public/theme/images/resort/service-4.jpg') no-repeat center center / cover;">
-                                        <div class="jumbotron-text mt-0 mt-md-auto row align-items-center">
-                                            <div class="col-md-12">
-                                                <div class="testimonial bg-transparent shadow-none border-0 p-0">
-                                                    <h2 class="mb-1">Day In The Woods</h2>
-                                                    <div class="testi-content">
-                                                        <p>Assertively leverage existing integrated communities after turnkey quality vectors. Assertively coordinate sustainable quality.</p>
-                                                    </div>
-                                                </div>
-                                              
-                                            </div>
-                                        </div>
-                                    </div>
+                                    <div class="offer-section jumbotron m-0 dark d-flex justify-content-center align-items-md-end flex-column" style="height: 600px; border-radius: 0;background: linear-gradient(to bottom, rgba(0,0,0,0.1), rgba(0,0,0, 0.8)), url('public/theme/images/resort/service-4.jpg') no-repeat center center / cover;">
+										<div class="offer-section-outer p-5 ">
+											<a href="" class="view-button">View</a>
+											<div class="jumbotron-text mt-0 mt-md-auto row align-items-center">
+												<div class="col-md-12">
+													<div class="testimonial bg-transparent shadow-none border-0 p-0">
+														<h2 class="mb-1">Days In The Woods</h2>
+														<div class="testi-content">
+															<p>Assertively leverage existing integrated communities after turnkey quality vectors. Assertively coordinate sustainable quality.</p>
+														</div>
+													</div>
+												
+												</div>
+											</div>
+										</div>
+									</div>
                                 </div>
                             </div>
+                            
                         </div>
 						
 				
@@ -174,7 +197,7 @@
 							<div class="col-sm-6 col-lg-4">
 								<div class="feature-box fbox-plain">
 									<div class="fbox-icon">
-										<a href="#"><img src="public/theme/images/icons/24help.svg" alt="Image"></a>
+										<a href="#"><img src="{{asset('public/theme/images/resort/icon-1.svg')}}" alt="Image"></a>
 									</div>
 									<div class="fbox-content">
 										<h3 class="nott font-weight-semibold ls0">Aligned with Nature</h3>
@@ -186,7 +209,7 @@
 							<div class="col-sm-6 col-lg-4">
 								<div class="feature-box fbox-plain">
 									<div class="fbox-icon">
-										<a href="#"><img src="public/theme/images/icons/barcode.svg" alt="Image"></a>
+										<a href="#"><img src="{{asset('public/theme/images/resort/icon-2.svg')}}" alt="Image"></a>
 									</div>
 									<div class="fbox-content">
 										<h3 class="nott font-weight-semibold ls0">Relax with Your Time</h3>
@@ -198,7 +221,7 @@
 							<div class="col-sm-6 col-lg-4">
 								<div class="feature-box fbox-plain">
 									<div class="fbox-icon">
-										<a href="#"><img src="public/theme/images/icons/buy.svg" alt="Image"></a>
+										<a href="#"><img src="{{asset('public/theme/images/resort/icon-3.svg')}}" alt="Image"></a>
 									</div>
 									<div class="fbox-content">
 										<h3 class="nott font-weight-semibold ls0">Tents in Starry Night</h3>
@@ -210,7 +233,7 @@
 							<div class="col-sm-6 col-lg-4">
 								<div class="feature-box fbox-plain">
 									<div class="fbox-icon">
-										<a href="#"><img src="public/theme/images/icons/card.svg" alt="Image"></a>
+										<a href="#"><img src="{{asset('public/theme/images/resort/icon-4.svg')}}" alt="Image"></a>
 									</div>
 									<div class="fbox-content">
 										<h3 class="nott font-weight-semibold ls0">Meditate with Music</h3>
@@ -222,7 +245,7 @@
 							<div class="col-sm-6 col-lg-4">
 								<div class="feature-box fbox-plain">
 									<div class="fbox-icon">
-										<a href="#"><img src="public/theme/images/icons/doc.svg" alt="Image"></a>
+										<a href="#"><img src="{{asset('public/theme/images/resort/icon-5.svg')}}" alt="Image"></a>
 									</div>
 									<div class="fbox-content">
 										<h3 class="nott font-weight-semibold ls0">Delicacies You Like</h3>
@@ -234,7 +257,7 @@
 							<div class="col-sm-6 col-lg-4">
 								<div class="feature-box fbox-plain">
 									<div class="fbox-icon">
-										<a href="#"><img src="public/theme/images/icons/dropbox.svg" alt="Image"></a>
+										<a href="#"><img src="{{asset('public/theme/images/resort/icon-6.svg')}}" alt="Image"></a>
 									</div>
 									<div class="fbox-content">
 										<h3 class="nott font-weight-semibold ls0">Prompt Service</h3>
@@ -357,7 +380,7 @@
 						<div class="d-flex justify-content-between align-items-center">
 							<div class="heading-block border-bottom-0 mb-0" style="max-width: 700px">
 								<div class="fancy-title title-border mb-3"><h5 class="font-weight-normal color font-body text-uppercase ls1">Beautiful Captured</h5></div>
-								<h2 class="font-weight-bold mb-2 nott" style="font-size: 42px; letter-spacing: -1px">Our <span>Yoga</span> Gallery.</h2>
+								<h2 class="font-weight-bold mb-2 nott" style="font-size: 42px; letter-spacing: -1px">Our Gallery.</h2>
 								<p class="lead mb-0">Energistically syndicate team building synergy after efficient human capital. Assertively underwhelm sticky solutions.</p>
 							</div>
 						
@@ -366,18 +389,18 @@
 				</div>
 				<div class="section p-0 m-0">
 					<div class="masonry-thumbs grid-container grid-2 grid-sm-3 grid-md-4" data-lightbox="gallery">
-						<a class="grid-item" href="public/theme/images/gallery/1.jpg" data-lightbox="gallery-item"><img src="public/theme/images/gallery/1.jpg" alt="Gallery Thumb 1"></a>
-						<a class="grid-item" href="public/theme/images/gallery/2.jpg" data-lightbox="gallery-item"><img src="public/theme/images/gallery/2.jpg" alt="Gallery Thumb 2"></a>
-						<a class="grid-item" href="public/theme/images/gallery/3.jpg" data-lightbox="gallery-item"><img src="public/theme/images/gallery/3.jpg" alt="Gallery Thumb 3"></a>
-						<a class="grid-item" href="public/theme/images/gallery/4.jpg" data-lightbox="gallery-item"><img src="public/theme/images/gallery/4.jpg" alt="Gallery Thumb 4"></a>
-						<a class="grid-item" href="public/theme/images/gallery/5.jpg" data-lightbox="gallery-item"><img src="public/theme/images/gallery/5.jpg" alt="Gallery Thumb 5"></a>
-						<a class="grid-item" href="public/theme/images/gallery/6.jpg" data-lightbox="gallery-item"><img src="public/theme/images/gallery/6.jpg" alt="Gallery Thumb 6"></a>
-						<a class="grid-item" href="public/theme/images/gallery/7.jpg" data-lightbox="gallery-item"><img src="public/theme/images/gallery/7.jpg" alt="Gallery Thumb 7"></a>
-						<a class="grid-item" href="public/theme/images/gallery/8.jpg" data-lightbox="gallery-item"><img src="public/theme/images/gallery/8.jpg" alt="Gallery Thumb 8"></a>
-						<a class="grid-item" href="public/theme/images/gallery/9.jpg" data-lightbox="gallery-item"><img src="public/theme/images/gallery/9.jpg" alt="Gallery Thumb 9"></a>
-						<a class="grid-item" href="public/theme/images/gallery/10.jpg" data-lightbox="gallery-item"><img src="public/theme/images/gallery/10.jpg" alt="Gallery Thumb 10"></a>
-						<a class="grid-item" href="public/theme/images/gallery/11.jpg" data-lightbox="gallery-item"><img src="public/theme/images/gallery/11.jpg" alt="Gallery Thumb 11"></a>
-						<a class="grid-item" href="public/theme/images/gallery/12.jpg" data-lightbox="gallery-item"><img src="public/theme/images/gallery/12.jpg" alt="Gallery Thumb 12"></a>
+						<a class="grid-item" href="{{asset('public/theme/images/resort/gallery/1.jpg')}}" data-lightbox="gallery-item"><img src="{{asset('public/theme/images/resort/gallery/1.jpg')}}" alt="Gallery Thumb 1"></a>
+						<a class="grid-item" href="{{asset('public/theme/images/resort/gallery/2.jpg')}}" data-lightbox="gallery-item"><img src="{{asset('public/theme/images/resort/gallery/2.jpg')}}" alt="Gallery Thumb 2"></a>
+						<a class="grid-item" href="{{asset('public/theme/images/resort/gallery/3.jpg')}}" data-lightbox="gallery-item"><img src="{{asset('public/theme/images/resort/gallery/3.jpg')}}" alt="Gallery Thumb 3"></a>
+						<a class="grid-item" href="{{asset('public/theme/images/resort/gallery/4.jpg')}}" data-lightbox="gallery-item"><img src="{{asset('public/theme/images/resort/gallery/4.jpg')}}" alt="Gallery Thumb 4"></a>
+						<a class="grid-item" href="{{asset('public/theme/images/resort/gallery/5.jpg')}}" data-lightbox="gallery-item"><img src="{{asset('public/theme/images/resort/gallery/4.jpg')}}" alt="Gallery Thumb 5"></a>
+						<a class="grid-item" href="{{asset('public/theme/images/resort/gallery/6.jpg')}}" data-lightbox="gallery-item"><img src="{{asset('public/theme/images/resort/gallery/6.jpg')}}" alt="Gallery Thumb 6"></a>
+						<a class="grid-item" href="{{asset('public/theme/images/resort/gallery/7.jpg')}}" data-lightbox="gallery-item"><img src="{{asset('public/theme/images/resort/gallery/7.jpg')}}" alt="Gallery Thumb 7"></a>
+						<a class="grid-item" href="{{asset('public/theme/images/resort/gallery/8.jpg')}}" data-lightbox="gallery-item"><img src="{{asset('public/theme/images/resort/gallery/8.jpg')}}" alt="Gallery Thumb 8"></a>
+						<a class="grid-item" href="{{asset('public/theme/images/resort/gallery/9.jpg')}}" data-lightbox="gallery-item"><img src="{{asset('public/theme/images/resort/gallery/9.jpg')}}" alt="Gallery Thumb 9"></a>
+						<a class="grid-item" href="{{asset('public/theme/images/resort/gallery/10.jpg')}}" data-lightbox="gallery-item"><img src="{{asset('public/theme/images/resort/gallery/10.jpg')}}" alt="Gallery Thumb 10"></a>
+						<a class="grid-item" href="{{asset('public/theme/images/resort/gallery/11.jpg')}}" data-lightbox="gallery-item"><img src="{{asset('public/theme/images/resort/gallery/11.jpg')}}" alt="Gallery Thumb 11"></a>
+						<a class="grid-item" href="{{asset('public/theme/images/resort/gallery/12.jpg')}}" data-lightbox="gallery-item"><img src="{{asset('public/theme/images/resort/gallery/12.jpg')}}" alt="Gallery Thumb 12"></a>
 					</div>
                 </div>
                 

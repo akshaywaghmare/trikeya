@@ -28,7 +28,7 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Yoga | Canvas</title>
+	<title>Trikaya Retreat - Kamshet</title>
 
 </head>
 

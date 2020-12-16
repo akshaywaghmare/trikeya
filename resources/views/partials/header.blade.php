@@ -15,7 +15,7 @@
 						</div><!-- #logo end -->
 
 						<div class="header-misc order-lg-3 col-auto col-lg-5 px-0 justify-content-end">
-							<a href="demo-yoga-login.html" class="button-link"><div>Book Now</div></a>
+							<a href="demo-yoga-login.html" class="button-link  font-weight-semibold ls1 py-3 px-4"><div>Book Now</div></a>
 							<a href="https://www.facebook.com/semicolonweb/" target="_blank" class="social-icon si-facebook si-small si-light mb-0"><i class="icon-facebook"></i><i class="icon-facebook"></i></a>
 							<a href="https://www.instagram.com/semicolonweb/" target="_blank" class="social-icon si-instagram si-small si-light mb-0"><i class="icon-instagram"></i><i class="icon-instagram"></i></a>
 							<a href="https://twitter.com/__SemiColon" target="_blank" class="social-icon si-paypal si-small si-light mb-0"><i class="icon-paypal"></i><i class="icon-paypal"></i></a>
@@ -32,16 +32,17 @@
 							<!-- Menu Left -->
 							<ul class="menu-container">
 								<li class="current menu-item"><a class="menu-link" href="#"><div>Resort</div></a></li>
-                                <li class="menu-item"><a class="menu-link" href="demo-yoga-about-us.html"><div>We Offer</div></a></li>
+                                <li class="menu-item"><a class="menu-link" href="#!"><div>We Offer</div></a>
+									<ul class="sub-menu-container">
+										<li class="menu-item"><a class="menu-link" href="#"><div>Dweej - The ECO Villa</div></a></li>
+										<li class="menu-item"><a class="menu-link" href="#"><div>Yahvi - The Forest Abode </div></a></li>
+										<li class="menu-item"><a class="menu-link" href="#"><div>Camping In The Clouds</div></a></li>
+										<li class="menu-item"><a class="menu-link" href="#"><div>Days In The Woods</div></a></li>
+									</ul>
+								</li>
                                 <li class="menu-item"><a class="menu-link" href="demo-yoga-about-us.html"><div>Gallery</div></a></li>
                                 <li class="menu-item"><a class="menu-link" href="demo-yoga-about-us.html"><div>Contact Us</div></a></li>
-								{{-- <li class="menu-item"><a class="menu-link" href="demo-yoga-pricing.html"><div>Gallery</div></a>
-									<ul class="sub-menu-container">
-										<li class="menu-item"><a class="menu-link" href="#"><div>Dropdown 1</div></a></li>
-										<li class="menu-item"><a class="menu-link" href="#"><div>Dropdown 2</div></a></li>
-										<li class="menu-item"><a class="menu-link" href="#"><div>Dropdown 3</div></a></li>
-									</ul>
-								</li> --}}
+								
 								
 							</ul>
 

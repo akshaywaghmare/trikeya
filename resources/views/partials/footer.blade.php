@@ -9,14 +9,14 @@
 					<div class="row">
 
 						<div class="col-lg-3 col-md-3 col-6">
-							<a href="#"><img src="demos/yoga/images/logo-dark@2x.png" alt="Logo Footer" height="80"></a>
+							<a href="#"><img src="{{asset('public/theme/images/resort/logo-transparent.png')}}" alt="Logo Footer" class="mb-2" height="115px"></a>
 							<p class="text-white-50">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, nesciunt excepturi dolor. Animi, voluptate.</p>
 						</div>
 
 						<div class="col-lg-2 col-md-3 col-6">
 							<div class="widget clearfix">
 
-								<h3 class="ls0 h5 mb-4">Features</h3>
+								<h3 class="ls0 h5 mb-4">Quick Links</h3>
 
 								<ul class="list-unstyled iconlist ml-0">
 									<li class="mb-2"><a href="#" class="text-white-50">Resort</a></li>
@@ -81,8 +81,8 @@
 
 					<div class="row">
 						<div class="col-12">
-							<p class="mb-2 text-white-50">Copyright 2020 - Trikaya Retreat</p>
-							<div class="copyright-links text-white-50"><a href="#" class="text-white-50">Terms of Use</a> / <a href="#" class="text-white-50">Privacy Policy</a></div>
+							<p class="mb-0 text-white-50">Copyright 2020 - Trikaya Retreat</p>
+							
 						</div>
 					</div>
 
