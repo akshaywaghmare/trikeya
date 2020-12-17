@@ -5,4 +5,36 @@
 	Overwriting Default Theme Styles for Better Handling Updates
 -----------------------------------------------------------------*/
 
+.bg-theme{
+	background-color: #f79638;
+}
 
+.min-vh-70{
+	min-height: 70vh !important;
+}
+
+.slider-inner {
+    background-position: center bottom !important;
+}
+
+.event .entry-image .entry-date {
+    background-color: rgb(247 150 56);
+    text-shadow:none;
+
+}
+.event .entry-image img {
+    width: 90%;
+
+}
+
+.event .entry-title.title-sm h2 {
+    font-size: 1.25rem;
+    letter-spacing: 0;
+    text-transform: none;
+    font-size: 25px;
+}
+
+.event.entry {
+    position: relative;
+    margin-bottom: 15px !important;
+}

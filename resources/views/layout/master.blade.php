@@ -19,6 +19,8 @@
 	<link rel="stylesheet" href="{{asset('public/theme/yoga.css')}}" type="text/css" /> <!-- Yoga Theme Custom CSS -->
 	<!-- / -->
 
+	@yield('style')
+
 	<link rel="stylesheet" href="{{asset('public/assets/css/font-icons.css')}}" type="text/css" />
 	<link rel="stylesheet" href="{{asset('public/assets/css/animate.css')}}" type="text/css" />
 	<link rel="stylesheet" href="{{asset('public/assets/css/magnific-popup.css')}}" type="text/css" />

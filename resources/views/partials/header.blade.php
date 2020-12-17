@@ -10,8 +10,8 @@
 						<!-- Logo
 						============================================= -->
 						<div id="logo" class="order-lg-2 col-auto px-0 mr-lg-0">
-                        <a href="#" class="standard-logo" data-dark-logo="{{asset('public/theme/images/logo-trikeya.png')}}"><img src="{{asset('public/theme/images/logo-trikeya.png')}}" alt="Canvas Logo"></a>
-							<a href="#" class="retina-logo" data-dark-logo="{{asset('public/theme/images/logo-trikeya.png')}}"><img src="{{asset('public/theme/images/logo-trikeya.png')}}" alt="Canvas Logo"></a>
+                        <a href="{{route('home')}}"  class="standard-logo" data-dark-logo="{{asset('public/theme/images/logo-trikeya.png')}}"><img src="{{asset('public/theme/images/logo-trikeya.png')}}" alt="Canvas Logo"></a>
+							<a href="{{route('home')}}" class="retina-logo" data-dark-logo="{{asset('public/theme/images/logo-trikeya.png')}}"><img src="{{asset('public/theme/images/logo-trikeya.png')}}" alt="Canvas Logo"></a>
 						</div><!-- #logo end -->
 
 						<div class="header-misc order-lg-3 col-auto col-lg-5 px-0 justify-content-end">
@@ -31,7 +31,8 @@
 
 							<!-- Menu Left -->
 							<ul class="menu-container">
-								<li class="current menu-item"><a class="menu-link" href="#"><div>Resort</div></a></li>
+								<li class="current menu-item"><a class="menu-link" href="{{route('home')}}"><div>Home</div></a></li>
+								<li class="menu-item"><a class="menu-link" href="{{route('resort')}}"><div>Resort</div></a></li>
                                 <li class="menu-item"><a class="menu-link" href="#!"><div>We Offer</div></a>
 									<ul class="sub-menu-container">
 										<li class="menu-item"><a class="menu-link" href="#"><div>Dweej - The ECO Villa</div></a></li>
@@ -40,9 +41,8 @@
 										<li class="menu-item"><a class="menu-link" href="#"><div>Days In The Woods</div></a></li>
 									</ul>
 								</li>
-                                <li class="menu-item"><a class="menu-link" href="demo-yoga-about-us.html"><div>Gallery</div></a></li>
-                                <li class="menu-item"><a class="menu-link" href="demo-yoga-about-us.html"><div>Contact Us</div></a></li>
-								
+							<li class="menu-item"><a class="menu-link" href="{{route('gallery')}}"><div>Gallery</div></a></li>
+							<li class="menu-item"><a class="menu-link" href="{{route('contact-us')}}"><div>Contact Us</div></a></li>
 								
 							</ul>
 
