@@ -5,7 +5,7 @@
 <section id="page-title">
 
     <div class="container">
-        <h1>Gallery</h1>
+        <h1>Contact Us</h1>
         
     </div>
 
@@ -100,13 +100,12 @@
 						<div class="sidebar col-lg-3">
 
 							<address>
-								<strong>Headquarters:</strong><br>
-								795 Folsom Ave, Suite 600<br>
-								San Francisco, CA 94107<br>
+								Sr. No. 15, Village Thoran, On main Kamshet <br>
+								Jambhavli Road, Taluka Maval<br>
+								Kamshet, Pune - 410405<br>
 							</address>
-							<abbr title="Phone Number"><strong>Phone:</strong></abbr> (1) 8547 632521<br>
-							<abbr title="Fax"><strong>Fax:</strong></abbr> (1) 11 4752 1433<br>
-							<abbr title="Email Address"><strong>Email:</strong></abbr> info@canvas.com
+							<abbr title="Phone Number"><strong>Phone:</strong></abbr>  +91 - 8605245000<br>
+							<abbr title="Email Address"><strong>Email:</strong></abbr> sales@trikayaretreat.com
 
 							<div class="widget border-0 pt-0">
 

@@ -25,3 +25,12 @@ Route::get('/gallery','App\Http\Controllers\HomeController@Gallery')->name('gall
 
 Route::get('/contact-us','App\Http\Controllers\HomeController@Contact')->name('contact-us');
 Route::get('/resort','App\Http\Controllers\HomeController@Resort')->name('resort');
+
+
+Route::get('/dweej','App\Http\Controllers\HomeController@Dweej')->name('dweej');
+
+Route::get('/yahvi','App\Http\Controllers\HomeController@Yahvi')->name('yahvi');
+
+Route::get('/camping-in-the-clouds','App\Http\Controllers\HomeController@campingintheclouds')->name('camping-in-the-clouds');
+Route::get('/day-in-the-woods','App\Http\Controllers\HomeController@dayinthewoods')->name('day-in-the-woods');
+

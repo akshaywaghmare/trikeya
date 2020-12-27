@@ -6,22 +6,19 @@
 @section('content')
 
 <section id="content">
-			<div class="content-wrap">
+    <div class="content-wrap">
 
 <section id="slider" class="slider-element min-vh-70 include-header mb-5" style="margin-top: -80px;">
     <div class="slider-inner" style="background-image: url('public/theme/images/resort/hero-bg.jpg');">
         <div class="vertical-middle">
             <div class="container">
-
                 <div class="row align-items-center justify-content-start text-left h-80">
                     <div class="col-md-9">
                         <div class="emphasis-title dark bottommargin">
                             <h2 data-animate="fadeInUp faster" class="mb-0 fadeInUp faster animated" style="font-size: 70px; font-weight: 700; line-height: 1.2">Pet Lovers?<br>Find the Right Companion.</h2>
                         </div>
-                       
                     </div>
                 </div>
-
             </div>
         </div>
 
@@ -140,6 +137,70 @@
 
     </div><!-- #portfolio end -->
 
+</div>
+
+
+<div class="container mt-5">
+    <h3>Testimonials Grid - 2 Columns</h3>
+
+    <ul class="testimonials-grid grid-1 grid-md-2 resort">
+        <li class="grid-item">
+            <div class="testimonial">
+                <div class="testi-image">
+                    <a href="#"><img src="https://randomuser.me/api/portraits/men/32.jpg" alt="Customer Testimonails"></a>
+                </div>
+                <div class="testi-content">
+                    <p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam quibusdam cum libero illo rerum!</p>
+                    <div class="testi-meta">
+                        John Doe
+                        <span>XYZ Inc.</span>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li class="grid-item">
+            <div class="testimonial">
+                <div class="testi-image">
+                    <a href="#"><img src="https://randomuser.me/api/portraits/women/44.jpg" alt="Customer Testimonails"></a>
+                </div>
+                <div class="testi-content">
+                    <p>Natus voluptatum enim quod necessitatibus quis expedita harum provident eos obcaecati id culpa corporis molestias.</p>
+                    <div class="testi-meta">
+                        Collis Ta'eed
+                        <span>Envato Inc.</span>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li class="grid-item">
+            <div class="testimonial">
+                <div class="testi-image">
+                    <a href="#"><img src="https://randomuser.me/api/portraits/men/97.jpg" alt="Customer Testimonails"></a>
+                </div>
+                <div class="testi-content">
+                    <p>Fugit officia dolor sed harum excepturi ex iusto magnam asperiores molestiae qui natus obcaecati facere sint amet.</p>
+                    <div class="testi-meta">
+                        Mary Jane
+                        <span>Google Inc.</span>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li class="grid-item">
+            <div class="testimonial">
+                <div class="testi-image">
+                    <a href="#"><img src="https://randomuser.me/api/portraits/women/47.jpg" alt="Customer Testimonails"></a>
+                </div>
+                <div class="testi-content">
+                    <p>Similique fugit repellendus expedita excepturi iure perferendis provident quia eaque. Repellendus, vero numquam?</p>
+                    <div class="testi-meta">
+                        Steve Jobs
+                        <span>Apple Inc.</span>
+                    </div>
+                </div>
+            </div>
+        </li>
+    </ul>
 </div>
 
 

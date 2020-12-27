@@ -38,3 +38,19 @@
     position: relative;
     margin-bottom: 15px !important;
 }
+
+.resort .testi-content p {
+    color: #000;
+}
+
+#oc-portfolio .owl-item{
+    width: 180px !important;
+}
+
+.ul-list{
+    margin-left: 20px;
+}
+
+.ul-list li{
+    line-height: 2.3;
+}

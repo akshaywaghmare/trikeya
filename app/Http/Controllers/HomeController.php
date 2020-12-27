@@ -22,6 +22,24 @@ class HomeController extends Controller
         return view('resort');
     }
 
+    public function Dweej(){
+        return view('services/dweej');
+    }
+
+    public function Yahvi(){
+        return view('services/yahvi');
+    }
+
+    public function  campingintheclouds(){
+        return view('services/camping-in-the-clouds');
+    }
+
+    public function  dayinthewoods(){
+        return view('services/day-in-the-woods');
+    }
+
+
+   
 
 
 

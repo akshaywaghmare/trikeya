@@ -35,10 +35,10 @@
 								<li class="menu-item"><a class="menu-link" href="{{route('resort')}}"><div>Resort</div></a></li>
                                 <li class="menu-item"><a class="menu-link" href="#!"><div>We Offer</div></a>
 									<ul class="sub-menu-container">
-										<li class="menu-item"><a class="menu-link" href="#"><div>Dweej - The ECO Villa</div></a></li>
-										<li class="menu-item"><a class="menu-link" href="#"><div>Yahvi - The Forest Abode </div></a></li>
-										<li class="menu-item"><a class="menu-link" href="#"><div>Camping In The Clouds</div></a></li>
-										<li class="menu-item"><a class="menu-link" href="#"><div>Days In The Woods</div></a></li>
+									<li class="menu-item"><a class="menu-link" href="{{route('dweej')}}"><div>Dweej - The ECO Villa</div></a></li>
+										<li class="menu-item"><a class="menu-link" href="{{route('yahvi')}}"><div>Yahvi - The Forest Abode </div></a></li>
+										<li class="menu-item"><a class="menu-link" href="{{route('camping-in-the-clouds')}}"><div>Camping In The Clouds</div></a></li>
+										<li class="menu-item"><a class="menu-link" href="{{route('day-in-the-woods')}}"><div>Days In The Woods</div></a></li>
 									</ul>
 								</li>
 							<li class="menu-item"><a class="menu-link" href="{{route('gallery')}}"><div>Gallery</div></a></li>
