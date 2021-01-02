@@ -295,7 +295,7 @@
                                     <span>Starts at just <em>$9.99/month</em> afterwards. No Ads, No Gimmicks and No SPAM. Just Real Content.</span>
                                 </div>
                                 <div class="col-12 col-lg-auto mt-4 mt-lg-0">
-                                    <a href="#" class="button button-large button-circle button-black m-0">Book Now</a>
+                                    <a href="https://www.asiatech.in/booking_engine/index3.php?token=MjYyOA==" target="_blank" class="button button-large button-circle button-black m-0">Book Now</a>
                                 </div>
                             </div>
                         </div>

@@ -19,7 +19,7 @@
 											<h2 class="font-weight-bold nott ls0" data-animate="fadeInUp" data-delay="200" style="font-size: 46px;">A magical paradise on the mountain top.</h2>
 										</div>
 										<p class="mb-5 font-weight-normal lead" data-animate="fadeInUp" data-delay="400" style="line-height: 1.6;">A calm place to make your mind happy and relaxed amidst soulful natural surroundings.</p>
-										<a href="#" data-scrollto="#section-about" data-offset="70"  data-animate="fadeInUp" data-delay="600" class="btn rounded bg-white color text-uppercase font-weight-semibold ls1 py-3 px-4">Book Now <i class="icon-line-arrow-right"></i></a>
+										<a href="https://www.asiatech.in/booking_engine/index3.php?token=MjYyOA==" target="_blank" data-offset="70"  data-animate="fadeInUp" data-delay="600" class="btn rounded bg-white color text-uppercase font-weight-semibold ls1 py-3 px-4">Book Now <i class="icon-line-arrow-right"></i></a>
 									</div>
 								</div>
 							</div>
@@ -63,15 +63,16 @@
 
 						<p class="lead mx-auto bottommargin" style="max-width: 800px;">Ford Foundation reduce child mortality fight against oppression refugee disruption pursue these aspirations effect. Free-speech Nelson Mandela change liberal; challenges of our times sustainability institutions.</p>
 						<div class=" text-center  pb-5">
-							<img src="{{asset('public/theme/images/sign.png')}}" alt="">
+							<img src="{{asset('public/theme/images/sign.png')}}" alt="" width="16%">
 						</div>
 
 						<div class="clear"></div>
 
 						<div class="row  mx-auto" style="max-width: 1000px;">
+							
 
 						<div class="col-md-12">
-                            <iframe width="760" height="450" src="https://www.dailymotion.com/embed/video/x1abbei" allowfullscreen></iframe>
+							<iframe width="760" height="450" src="https://www.youtube.com/embed/OK_PoSgmSUU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 						</div>
 						
 						
@@ -102,7 +103,7 @@
                                 <div class="oc-item">
                                     <div class="offer-section jumbotron m-0 dark d-flex justify-content-center align-items-md-end flex-column" style="height: 600px; border-radius: 0;background: linear-gradient(to bottom, rgba(0,0,0,0.1), rgba(0,0,0, 0.8)), url('public/theme/images/resort/service-1.jpg') no-repeat center center / cover;">
 										<div class="offer-section-outer p-5 ">
-											<a href="" class="view-button">View</a>
+											<a href="{{route('dweej')}}" class="view-button">View</a>
 											<div class="jumbotron-text mt-0 mt-md-auto row align-items-center">
 												<div class="col-md-12">
 													<div class="testimonial bg-transparent shadow-none border-0 p-0">
@@ -123,7 +124,7 @@
                                 <div class="oc-item">
                                     <div class="offer-section jumbotron m-0 dark d-flex justify-content-center align-items-md-end flex-column" style="height: 600px; border-radius: 0;background: linear-gradient(to bottom, rgba(0,0,0,0.1), rgba(0,0,0, 0.8)), url('public/theme/images/resort/service-2.jpg') no-repeat center center / cover;">
 										<div class="offer-section-outer p-5 ">
-											<a href="" class="view-button">View</a>
+											<a href="{{route('yahvi')}}" class="view-button">View</a>
 											<div class="jumbotron-text mt-0 mt-md-auto row align-items-center">
 												<div class="col-md-12">
 													<div class="testimonial bg-transparent shadow-none border-0 p-0">
@@ -144,7 +145,7 @@
                                 <div class="oc-item">
                                     <div class="offer-section jumbotron m-0 dark d-flex justify-content-center align-items-md-end flex-column" style="height: 600px; border-radius: 0;background: linear-gradient(to bottom, rgba(0,0,0,0.1), rgba(0,0,0, 0.8)), url('public/theme/images/resort/service-3.jpg') no-repeat center center / cover;">
 										<div class="offer-section-outer p-5 ">
-											<a href="" class="view-button">View</a>
+											<a href="{{route('camping-in-the-clouds')}}" class="view-button">View</a>
 											<div class="jumbotron-text mt-0 mt-md-auto row align-items-center">
 												<div class="col-md-12">
 													<div class="testimonial bg-transparent shadow-none border-0 p-0">
@@ -165,7 +166,7 @@
                                 <div class="oc-item">
                                     <div class="offer-section jumbotron m-0 dark d-flex justify-content-center align-items-md-end flex-column" style="height: 600px; border-radius: 0;background: linear-gradient(to bottom, rgba(0,0,0,0.1), rgba(0,0,0, 0.8)), url('public/theme/images/resort/service-4.jpg') no-repeat center center / cover;">
 										<div class="offer-section-outer p-5 ">
-											<a href="" class="view-button">View</a>
+											<a href="{{route('day-in-the-woods')}}" class="view-button">View</a>
 											<div class="jumbotron-text mt-0 mt-md-auto row align-items-center">
 												<div class="col-md-12">
 													<div class="testimonial bg-transparent shadow-none border-0 p-0">
@@ -384,7 +385,7 @@
 											</div>
 										</div>
 										<div class="col-md-12 d-flex  mt-3 mt-md-0">
-											<a href="https://www.youtube.com/watch?v=P3Huse9K6Xs" data-lightbox="iframe" class="play-icon"><i class="icon-play1"></i></a>
+											<a href="https://trikayaretreat.com/wp-content/uploads/2020/05/Creating-A-Honest-Mind.mp3" data-lightbox="iframe" class="play-icon"><i class="icon-play1"></i></a>
 										</div>
 									</div>
 								</div>
@@ -398,7 +399,7 @@
 											</div>
 										</div>
 										<div class="col-md-12 d-flex  mt-3 mt-md-0">
-											<a href="https://www.youtube.com/watch?v=P3Huse9K6Xs" data-lightbox="iframe" class="play-icon"><i class="icon-play1"></i></a>
+											<a href="https://trikayaretreat.com/wp-content/uploads/2020/05/Mind-Relaxation-Music.mp3" data-lightbox="iframe" class="play-icon"><i class="icon-play1"></i></a>
 										</div>
 									</div>
 								</div>
@@ -412,7 +413,7 @@
 											</div>
 										</div>
 										<div class="col-md-12 d-flex  mt-3 mt-md-0">
-											<a href="https://www.youtube.com/watch?v=P3Huse9K6Xs" data-lightbox="iframe" class="play-icon"><i class="icon-play1"></i></a>
+											<a href="https://trikayaretreat.com/wp-content/uploads/2020/05/Sound-of-Sahyadri-Deep-Forest.mpeg" data-lightbox="iframe" class="play-icon"><i class="icon-play1"></i></a>
 										</div>
 									</div>
 								</div>
@@ -434,8 +435,8 @@
 								</div>
 								<p>Progressively strategize just in time scenarios and compelling results. Intrinsicly parallel task extensive systems whereas distinctive catalysts for scenarios and compelling results change.</p>
 								<div>
-									<a href="#"><img src="public/theme/images/appstore.png" alt="Image" height="54" class="mt-3"></a>
-									<a href="#"><img src="public/theme/images/googleplay.png" alt="Image" class="ml-xl-3 ml-lg-1 mt-3 ml-0 " height="54"></a>
+									<a href="https://trikayaretreat.com/trikaya-wellness-app-free-trial" target="_blank"><img src="public/theme/images/appstore.png" alt="Image" height="54" class="mt-3"></a>
+									<a href="https://trikayaretreat.com/trikaya-wellness-app-free-trial" target="_blank"><img src="public/theme/images/googleplay.png" alt="Image" class="ml-xl-3 ml-lg-1 mt-3 ml-0 " height="54"></a>
 								</div>
 							</div>
 

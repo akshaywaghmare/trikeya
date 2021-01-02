@@ -56,21 +56,7 @@
 
 										<div class="w-100"></div>
 
-										<div class="col-md-8 form-group">
-											<label for="template-contactform-subject">Subject <small>*</small></label>
-											<input type="text" id="template-contactform-subject" name="subject" value="" class="required sm-form-control" />
-										</div>
-
-										<div class="col-md-4 form-group">
-											<label for="template-contactform-service">Services</label>
-											<select id="template-contactform-service" name="template-contactform-service" class="sm-form-control">
-												<option value="">-- Select One --</option>
-												<option value="Wordpress">Wordpress</option>
-												<option value="PHP / MySQL">PHP / MySQL</option>
-												<option value="HTML5 / CSS3">HTML5 / CSS3</option>
-												<option value="Graphic Design">Graphic Design</option>
-											</select>
-										</div>
+										
 
 										<div class="w-100"></div>
 
@@ -107,44 +93,12 @@
 							<abbr title="Phone Number"><strong>Phone:</strong></abbr>  +91 - 8605245000<br>
 							<abbr title="Email Address"><strong>Email:</strong></abbr> sales@trikayaretreat.com
 
-							<div class="widget border-0 pt-0">
-
-								<div class="fslider customjs testimonial twitter-scroll twitter-feed" data-username="envato" data-count="3" data-animation="slide" data-arrows="false">
-									<i class="i-plain i-small color icon-twitter mb-0" style="margin-right: 15px;"></i>
-									<div class="flexslider" style="width: auto;">
-										<div class="slider-wrap">
-											<div class="slide"></div>
-										</div>
-									</div>
-								</div>
-
-							</div>
-
+						
 							<div class="widget border-0 pt-0">
 
 								<a href="#" class="social-icon si-small si-dark si-facebook">
 									<i class="icon-facebook"></i>
 									<i class="icon-facebook"></i>
-								</a>
-
-								<a href="#" class="social-icon si-small si-dark si-twitter">
-									<i class="icon-twitter"></i>
-									<i class="icon-twitter"></i>
-								</a>
-
-								<a href="#" class="social-icon si-small si-dark si-dribbble">
-									<i class="icon-dribbble"></i>
-									<i class="icon-dribbble"></i>
-								</a>
-
-								<a href="#" class="social-icon si-small si-dark si-forrst">
-									<i class="icon-forrst"></i>
-									<i class="icon-forrst"></i>
-								</a>
-
-								<a href="#" class="social-icon si-small si-dark si-pinterest">
-									<i class="icon-pinterest"></i>
-									<i class="icon-pinterest"></i>
 								</a>
 
 								<a href="#" class="social-icon si-small si-dark si-gplus">
