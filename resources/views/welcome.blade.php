@@ -61,7 +61,7 @@
 
 						<h2 class="mx-auto bottommargin" style="max-width: 700px; font-size: 40px;">Welcome To Trikaya Retreat - Kamshet</h2>
 
-						<p class="lead mx-auto bottommargin" style="max-width: 800px;">Ford Foundation reduce child mortality fight against oppression refugee disruption pursue these aspirations effect. Free-speech Nelson Mandela change liberal; challenges of our times sustainability institutions.</p>
+						<p class="lead mx-auto bottommargin" style="max-width: 800px;">Trikaya is an ideal holiday destination, nestled in the foothills of the Shirota forests, last of the mighty hills amidst the Sahyadri ranges, built on a hilltop at an altitude of 2226ft above sea level, deep in the western ghats overlooking the Kundali Dam, we offer you an abode in the clouds.</p>
 						<div class=" text-center  pb-5">
 							<img src="{{asset('public/theme/images/sign.png')}}" alt="" width="16%">
 						</div>
@@ -93,7 +93,7 @@
                 <div class="section  my-0 pb-1 bg-white ">
 					<div class="container">
 						<div class="heading-block" style="max-width: 500px">
-							<h3 class="font-weight-bold nott mb-4" style="font-size: 42px; letter-spacing: -1px;">Refreshing Experience</h3>
+							<h3 class="font-weight-bold nott mb-4" style="font-size: 42px; letter-spacing: -1px;">Stay Options</h3>
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta nesciunt tenetur iste odit animi mollitia amet autem alias ea dicta!</p>
 						</div>
 					</div>
@@ -192,80 +192,14 @@
 
 
 
-				<div class="section  my-0 pb-1 bg-white mb-5 pb-5">
-					<div class="container">
-						<div class="heading-block" style="max-width: 500px">
-							<h3 class="font-weight-bold nott mb-4" style="font-size: 42px; letter-spacing: -1px;">Upcoming Events</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta nesciunt tenetur iste odit animi mollitia amet autem alias ea dicta!</p>
-						</div>
-					</div>
-					<div class="container">
-						<div class="row">
-							<div class="entry event col-12">
-								<div class="grid-inner row align-items-center no-gutters p-4">
-									<div class="entry-image col-md-4 mb-md-0">
-										<a href="#">
-											<img src="{{asset('public/theme/images/resort/service-1.jpg')}}" alt="Inventore voluptates velit totam ipsa tenetur">
-											<div class="entry-date">10<span>Apr</span></div>
-										</a>
-									</div>
-									<div class="col-md-8 pl-md-4">
-										<div class="entry-title title-sm">
-											<h2><a href="#">Inventore voluptates velit totam ipsa tenetur</a></h2>
-										</div>
-										<div class="entry-meta">
-											<ul>
-												<li><a href="#"><i class="icon-time"></i> 11:00 - 19:00</a></li>
-												<li><a href="#"><i class="icon-map-marker2"></i> Melbourne, Australia</a></li>
-											</ul>
-										</div>
-										<div class="entry-content">
-											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione, voluptatem, dolorem animi nisi autem blanditiis enim culpa reiciendis et explicabo tenetur voluptate rerum molestiae eaque possimus exercitationem eligendi fuga.</p>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class="entry event col-12">
-								<div class="grid-inner row align-items-center no-gutters p-4">
-									<div class="entry-image col-md-4 mb-md-0">
-										<a href="#">
-											<img src="{{asset('public/theme/images/resort/service-2.jpg')}}" alt="Inventore voluptates velit totam ipsa tenetur">
-											<div class="entry-date">10<span>Apr</span></div>
-										</a>
-									</div>
-									<div class="col-md-8 pl-md-4">
-										<div class="entry-title title-sm">
-											<h2><a href="#">Inventore voluptates velit totam ipsa tenetur</a></h2>
-										</div>
-										<div class="entry-meta">
-											<ul>
-												<li><a href="#"><i class="icon-time"></i> 11:00 - 19:00</a></li>
-												<li><a href="#"><i class="icon-map-marker2"></i> Melbourne, Australia</a></li>
-											</ul>
-										</div>
-										<div class="entry-content">
-											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione, voluptatem, dolorem animi nisi autem blanditiis enim culpa reiciendis et explicabo tenetur voluptate rerum molestiae eaque possimus exercitationem eligendi fuga.</p>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="row">
-							<div class="col-md-12 text-center">
-								<a href="demo-yoga-login.html" class="btn rounded bg-theme text-white shadow text-uppercase font-weight-semibold ls1 py-3 px-4"><div>View All Events</div></a>
-							</div>
-						</div>
-					</div>
-
-				</div>
+				
 
 
 
 
 
 
-
-				<div class="section  mt-0 clearfix pt-0  bg-white">
+				<div class="section  mt-0 clearfix   bg-white">
 					<div class="container">
 						<div class="heading-block" style="max-width: 800px">
 							<h3 class="font-weight-bold nott mb-4" style="font-size: 42px; letter-spacing: -1px;">Refreshing Experience <span>An abode in the clouds</span>.</h3>
@@ -354,6 +288,72 @@
 				</div>
 				
 
+				<div class="section  my-0 pb-1 bg-white mb-5 pb-5 pt-0">
+					<div class="container">
+						<div class="heading-block" style="max-width: 500px">
+							<h3 class="font-weight-bold nott mb-4" style="font-size: 42px; letter-spacing: -1px;">Upcoming events</h3>
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta nesciunt tenetur iste odit animi mollitia amet autem alias ea dicta!</p>
+						</div>
+					</div>
+					<div class="container">
+						<div class="row">
+							<div class="entry event col-12">
+								<div class="grid-inner row align-items-center no-gutters p-4">
+									<div class="entry-image col-md-4 mb-md-0">
+										<a href="#">
+											<img src="{{asset('public/theme/images/resort/service-1.jpg')}}" alt="Inventore voluptates velit totam ipsa tenetur">
+											<div class="entry-date">10<span>Apr</span></div>
+										</a>
+									</div>
+									<div class="col-md-8 pl-md-4">
+										<div class="entry-title title-sm">
+											<h2><a href="#">Inventore voluptates velit totam ipsa tenetur</a></h2>
+										</div>
+										<div class="entry-meta">
+											<ul>
+												<li><a href="#"><i class="icon-time"></i> 11:00 - 19:00</a></li>
+												<li><a href="#"><i class="icon-map-marker2"></i> Melbourne, Australia</a></li>
+											</ul>
+										</div>
+										<div class="entry-content">
+											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione, voluptatem, dolorem animi nisi autem blanditiis enim culpa reiciendis et explicabo tenetur voluptate rerum molestiae eaque possimus exercitationem eligendi fuga.</p>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="entry event col-12">
+								<div class="grid-inner row align-items-center no-gutters p-4">
+									<div class="entry-image col-md-4 mb-md-0">
+										<a href="#">
+											<img src="{{asset('public/theme/images/resort/service-2.jpg')}}" alt="Inventore voluptates velit totam ipsa tenetur">
+											<div class="entry-date">10<span>Apr</span></div>
+										</a>
+									</div>
+									<div class="col-md-8 pl-md-4">
+										<div class="entry-title title-sm">
+											<h2><a href="#">Inventore voluptates velit totam ipsa tenetur</a></h2>
+										</div>
+										<div class="entry-meta">
+											<ul>
+												<li><a href="#"><i class="icon-time"></i> 11:00 - 19:00</a></li>
+												<li><a href="#"><i class="icon-map-marker2"></i> Melbourne, Australia</a></li>
+											</ul>
+										</div>
+										<div class="entry-content">
+											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione, voluptatem, dolorem animi nisi autem blanditiis enim culpa reiciendis et explicabo tenetur voluptate rerum molestiae eaque possimus exercitationem eligendi fuga.</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-12 text-center">
+								<a href="demo-yoga-login.html" class="btn rounded bg-theme text-white shadow text-uppercase font-weight-semibold ls1 py-3 px-4"><div>View All Events</div></a>
+							</div>
+						</div>
+					</div>
+
+				</div>
 
 
 
@@ -451,6 +451,74 @@
 						</div>
 					</div>
 				</div>
+
+
+
+
+
+				<div class="container mt-5">
+					<h3>What Client Says</h3>
+				
+					<ul class="testimonials-grid grid-1 grid-md-2 resort">
+						<li class="grid-item">
+							<div class="testimonial">
+								<div class="testi-image">
+									<a href="#"><img src="https://randomuser.me/api/portraits/men/32.jpg" alt="Customer Testimonails"></a>
+								</div>
+								<div class="testi-content">
+									<p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam quibusdam cum libero illo rerum!</p>
+									<div class="testi-meta">
+										John Doe
+										<span>XYZ Inc.</span>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li class="grid-item">
+							<div class="testimonial">
+								<div class="testi-image">
+									<a href="#"><img src="https://randomuser.me/api/portraits/women/44.jpg" alt="Customer Testimonails"></a>
+								</div>
+								<div class="testi-content">
+									<p>Natus voluptatum enim quod necessitatibus quis expedita harum provident eos obcaecati id culpa corporis molestias.</p>
+									<div class="testi-meta">
+										Collis Ta'eed
+										<span>Envato Inc.</span>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li class="grid-item">
+							<div class="testimonial">
+								<div class="testi-image">
+									<a href="#"><img src="https://randomuser.me/api/portraits/men/97.jpg" alt="Customer Testimonails"></a>
+								</div>
+								<div class="testi-content">
+									<p>Fugit officia dolor sed harum excepturi ex iusto magnam asperiores molestiae qui natus obcaecati facere sint amet.</p>
+									<div class="testi-meta">
+										Mary Jane
+										<span>Google Inc.</span>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li class="grid-item">
+							<div class="testimonial">
+								<div class="testi-image">
+									<a href="#"><img src="https://randomuser.me/api/portraits/women/47.jpg" alt="Customer Testimonails"></a>
+								</div>
+								<div class="testi-content">
+									<p>Similique fugit repellendus expedita excepturi iure perferendis provident quia eaque. Repellendus, vero numquam?</p>
+									<div class="testi-meta">
+										Steve Jobs
+										<span>Apple Inc.</span>
+									</div>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</div>
+				
 
                 
 
