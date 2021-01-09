@@ -265,23 +265,83 @@
                         <div class="row">
                             <div class="col-md-6">
                                 <h2>Day One:</h2>
-                                <ul class="ul-list">
-                                   <li>12.00 Hrs Check in with a welcome non alcoholic drink.</li>
-                                   <li>12.00 Hrs. – 13.30 Hrs. waterfall (Monsoon).</li>
-                                   <li>13.30 Hrs. – 15:00 Hrs Lunch (Simple veg).</li>
-                                   <li>16.00 Hrs. – 18.30 Hrs. Visit Kondeshwar shiv temple & sunset Valley point.</li>
-                                   <li>18.30 Hrs. – 19.30 Hrs. Enjoy your evening tea with snacks.</li>
-                                   <li>20.00 Hrs. – Set up a bonfire / fire up the barbeque.</li>
-                                   <li>20.30 Hrs. – 23.00 Hrs. Dinner with barbecue.</li>
-                                </ul>
+                                <div class="history-tl-container">
+                                    <ul class="tl">
+                                      <li class="tl-item" ng-repeat="item in retailer_history">
+                                        <div class="timestamp">
+                                            12.00 Hrs
+                                        </div>
+                                        <div class="item-title">Check in with a welcome non alcoholic drink.</div>
+                                      </li>
+                                      <li class="tl-item" ng-repeat="item in retailer_history">
+                                        <div class="timestamp">
+                                            12.00 Hrs <br> 13.30 Hrs
+                                        </div>
+                                        <div class="item-title">waterfall (Monsoon)</div>
+                                      </li>
+                                      <li class="tl-item" ng-repeat="item in retailer_history">
+                                        <div class="timestamp">
+                                            13.30 Hrs<br> 15:00 Hrs
+                                        </div>
+                                        <div class="item-title">Lunch (Simple veg)</div>
+                                      </li>
+
+
+                                      <li class="tl-item" ng-repeat="item in retailer_history">
+                                        <div class="timestamp">
+                                            16.00 Hrs<br> 18.30 Hrs
+                                        </div>
+                                        <div class="item-title">Visit Kondeshwar shiv temple & sunset Valley point</div>
+                                      </li>
+                                      <li class="tl-item" ng-repeat="item in retailer_history">
+                                        <div class="timestamp">
+                                            18.30 Hrs<br> 19:30 Hrs
+                                        </div>
+                                        <div class="item-title">Enjoy your evening tea with snacks</div>
+                                      </li>
+                                      <li class="tl-item" ng-repeat="item in retailer_history">
+                                        <div class="timestamp">
+                                            20.00 Hrs
+                                        </div>
+                                        <div class="item-title">Set up a bonfire / fire up the barbeque</div>
+                                      </li>
+                                      <li class="tl-item" ng-repeat="item in retailer_history">
+                                        <div class="timestamp">
+                                            20.30 Hrs<br> 23:00 Hrs
+                                        </div>
+                                        <div class="item-title">Dinner with barbecue</div>
+                                      </li>
+                                  
+                                    </ul>
+                                  
+                                  </div>
                             </div>
+
                             <div class="col-md-6">
                                 <h2>Day Two:</h2>
-                                <ul class="ul-list">
-                                  <li>7:30 Hrs – 9:30 Hrs Trek in the Shirota forest (Summer, Winter).</li>
-                                  <li>09.30 Hrs. – 10.30 Hrs. Breakfast.</li>
-                                  <li>10.30 Hrs. -Check out.</li>
-                                </ul>
+                                <div class="history-tl-container">
+                                    <ul class="tl">
+                                      <li class="tl-item" ng-repeat="item in retailer_history">
+                                        <div class="timestamp">
+                                            7:30 Hrs <br> 9:30 Hrs
+                                        </div>
+                                        <div class="item-title">Trek in the Shirota forest (Summer, Winter)</div>
+                                      </li>
+                                      <li class="tl-item" ng-repeat="item in retailer_history">
+                                        <div class="timestamp">
+                                            09.30 Hrs <br> 10.30 Hrs
+                                        </div>
+                                        <div class="item-title"> Breakfast</div>
+                                      </li>
+                                      <li class="tl-item" ng-repeat="item in retailer_history">
+                                        <div class="timestamp">
+                                            10.30 Hrs
+                                        </div>
+                                        <div class="item-title">Check out</div>
+                                      </li>
+                                    </ul>
+                                  
+                                  </div>
                             </div>
                         </div>
                     </div>
