@@ -94,7 +94,7 @@
 					<div class="container">
 						<div class="heading-block" style="max-width: 500px">
 							<h3 class="font-weight-bold nott mb-4" style="font-size: 42px; letter-spacing: -1px;">Stay Options</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta nesciunt tenetur iste odit animi mollitia amet autem alias ea dicta!</p>
+							<p>I took a walk in the woods and came out taller than the trees</p>
 						</div>
 					</div>
 					<div  class="section bg-white mb-0 pb-0">
@@ -109,7 +109,8 @@
 													<div class="testimonial bg-transparent shadow-none border-0 p-0">
 														<h2 class="mb-1"> Dweej - The ECO Villa </h2>
 														<div class="testi-content">
-															<p>Assertively leverage existing integrated communities after turnkey quality vectors. Assertively coordinate sustainable quality.</p>
+															<p>Dweej takes you back in time where homes were built using materials and technology that blend
+																into the welcoming arms of Mother Nature.</p>
 														</div>
 													</div>
 												
@@ -130,7 +131,8 @@
 													<div class="testimonial bg-transparent shadow-none border-0 p-0">
 														<h2 class="mb-1">Yahvi - The Forest Abode </h2>
 														<div class="testi-content">
-															<p>Assertively leverage existing integrated communities after turnkey quality vectors. Assertively coordinate sustainable quality.</p>
+															<p>Yahvi is a two-bedroom abode overlooking the Shirota forest. Both bedrooms have access to private
+																sitting areas and lush green lawns with gardens.</p>
 														</div>
 													</div>
 												
@@ -151,7 +153,8 @@
 													<div class="testimonial bg-transparent shadow-none border-0 p-0">
 														<h2 class="mb-1">Camping In The Clouds</h2>
 														<div class="testi-content">
-															<p>Assertively leverage existing integrated communities after turnkey quality vectors. Assertively coordinate sustainable quality.</p>
+															<p>Camping @ Trikaya Retreat is for nature lovers who would like to take a day or two off from the daily
+																rigors and surrender to the lure of forest life.</p>
 														</div>
 													</div>
 												
@@ -172,7 +175,8 @@
 													<div class="testimonial bg-transparent shadow-none border-0 p-0">
 														<h2 class="mb-1"> Dweej - The ECO Villa </h2>
 														<div class="testi-content">
-															<p>Assertively leverage existing integrated communities after turnkey quality vectors. Assertively coordinate sustainable quality.</p>
+															<p>Proximity to Pune and Mumbai makes Trikaya Retreat an ideal destination to spend a day amidst the
+																enticing woods of the Western Ghats.</p>
 														</div>
 													</div>
 												
@@ -203,7 +207,6 @@
 					<div class="container">
 						<div class="heading-block" style="max-width: 800px">
 							<h3 class="font-weight-bold nott mb-4" style="font-size: 42px; letter-spacing: -1px;">Refreshing Experience <span>An abode in the clouds</span>.</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta nesciunt tenetur iste odit animi mollitia amet autem alias ea dicta!</p>
 						</div>
 					</div>
 					<div class="container clearfix">
@@ -216,7 +219,8 @@
 									</div>
 									<div class="fbox-content">
 										<h3 class="nott font-weight-semibold ls0">Aligned with Nature</h3>
-										<p>Powerful Layout with Responsive functionality that can be adapted to any screen size.</p>
+										<p>once in a while and climb a mountain or spend a week in the woods. Align your spirit with the
+											bounties of nature.</p>
 									</div>
 								</div>
 							</div>
@@ -228,7 +232,7 @@
 									</div>
 									<div class="fbox-content">
 										<h3 class="nott font-weight-semibold ls0">Relax with Your Time</h3>
-										<p>Looks beautiful &amp; ultra-sharp on Retina Displays with Retina Icons, Fonts &amp; Images.</p>
+										<p>Relaxation is who you are.</p>
 									</div>
 								</div>
 							</div>
@@ -240,7 +244,7 @@
 									</div>
 									<div class="fbox-content">
 										<h3 class="nott font-weight-semibold ls0">Tents in Starry Night</h3>
-										<p>Optimized code that are completely customizable and deliver unmatched fast performance.</p>
+										<p>“You will find that the night is more alive and richly coloured than the day.</p>
 									</div>
 								</div>
 							</div>
@@ -252,7 +256,7 @@
 									</div>
 									<div class="fbox-content">
 										<h3 class="nott font-weight-semibold ls0">Meditate with Music</h3>
-										<p>Canvas provides support for Native HTML5 Videos that can be added to a Full Width Background.</p>
+										<p>Meditation is the art of hearing the music of silence</p>
 									</div>
 								</div>
 							</div>
@@ -264,7 +268,7 @@
 									</div>
 									<div class="fbox-content">
 										<h3 class="nott font-weight-semibold ls0">Delicacies You Like</h3>
-										<p>Display your Content attractively using Parallax Sections that have unlimited customizable areas.</p>
+										<p>All happiness depends on a leisurely eaten meal.</p>
 									</div>
 								</div>
 							</div>
@@ -276,7 +280,7 @@
 									</div>
 									<div class="fbox-content">
 										<h3 class="nott font-weight-semibold ls0">Prompt Service</h3>
-										<p>Complete control on each &amp; every element that provides endless customization possibilities.</p>
+										<p>We always strive to meet our customer’s expectations.</p>
 									</div>
 								</div>
 							</div>
@@ -292,7 +296,8 @@
 					<div class="container">
 						<div class="heading-block" style="max-width: 500px">
 							<h3 class="font-weight-bold nott mb-4" style="font-size: 42px; letter-spacing: -1px;">Upcoming events</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta nesciunt tenetur iste odit animi mollitia amet autem alias ea dicta!</p>
+							<p>Experience The unique and magical events at different times of the year. We welcome you at The
+								Trikaya to experience each season at its best.</p>
 						</div>
 					</div>
 					<div class="container">
@@ -462,56 +467,44 @@
 					<ul class="testimonials-grid grid-1 grid-md-2 resort">
 						<li class="grid-item">
 							<div class="testimonial">
-								<div class="testi-image">
-									<a href="#"><img src="https://randomuser.me/api/portraits/men/32.jpg" alt="Customer Testimonails"></a>
-								</div>
 								<div class="testi-content">
-									<p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam quibusdam cum libero illo rerum!</p>
+									<p>This is very exotic place we had recently visited . This place has its own heritage where one can enjoy their selves with colleagues. And the food serve here is really good specially the breakfast. They serve healthy breakfast. We really enjoyed a lot.	</p>
 									<div class="testi-meta">
-										John Doe
-										<span>XYZ Inc.</span>
+										Santosh joshi 
+										<span>Google.com</span>
 									</div>
 								</div>
 							</div>
 						</li>
 						<li class="grid-item">
 							<div class="testimonial">
-								<div class="testi-image">
-									<a href="#"><img src="https://randomuser.me/api/portraits/women/44.jpg" alt="Customer Testimonails"></a>
-								</div>
 								<div class="testi-content">
-									<p>Natus voluptatum enim quod necessitatibus quis expedita harum provident eos obcaecati id culpa corporis molestias.</p>
+									<p>Excellent place for one day picnic, Near Pune, Drive from Pune to Kamshet is wonderful, Full of scenic beauty, We were glued to that place. lush green carpet around the earth with rain, breeze and so many waterfalls around. Special thanks to Mr. Anil and Mrs. Archana. Raghu and his staff.</p>
 									<div class="testi-meta">
-										Collis Ta'eed
-										<span>Envato Inc.</span>
+										MridulaJ3 
+										<span>Tripadvisor</span>
 									</div>
 								</div>
 							</div>
 						</li>
 						<li class="grid-item">
 							<div class="testimonial">
-								<div class="testi-image">
-									<a href="#"><img src="https://randomuser.me/api/portraits/men/97.jpg" alt="Customer Testimonails"></a>
-								</div>
 								<div class="testi-content">
-									<p>Fugit officia dolor sed harum excepturi ex iusto magnam asperiores molestiae qui natus obcaecati facere sint amet.</p>
+									<p>The place the management is awesome. At Trikaya you will be treated very well, humble people with amazing service. Nice barbeque and Personal camp fire. Weekend well spent with an amazing trek and another small trek to sunset point. Thank you guys. </p>
 									<div class="testi-meta">
-										Mary Jane
-										<span>Google Inc.</span>
+										purushotamp2015 
+										<span>Tripadvisor</span>
 									</div>
 								</div>
 							</div>
 						</li>
 						<li class="grid-item">
 							<div class="testimonial">
-								<div class="testi-image">
-									<a href="#"><img src="https://randomuser.me/api/portraits/women/47.jpg" alt="Customer Testimonails"></a>
-								</div>
 								<div class="testi-content">
-									<p>Similique fugit repellendus expedita excepturi iure perferendis provident quia eaque. Repellendus, vero numquam?</p>
+									<p>The property is tastefully done, with attention to every little aspect. The staff was absolutely brilliant and ensured that every little requirement was looked after. The food had a rustic authentic touch to it, which is rarely found in the city life we lead. Special thanks to the owners, Mr & Mrs. Pillai for taking special care of us, right from the time of booking to our checkout.</p>
 									<div class="testi-meta">
-										Steve Jobs
-										<span>Apple Inc.</span>
+										Akshay
+										<span>Booking.com</span>
 									</div>
 								</div>
 							</div>
