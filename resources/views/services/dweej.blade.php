@@ -11,33 +11,12 @@
 				<div class="swiper-container swiper-parent">
 					<div class="swiper-wrapper">
 						<div class="swiper-slide dark">
-							<div class="container">
-								<div class="slider-caption slider-caption-center">
-									<h2 data-animate="fadeInUp">Welcome to Canvas</h2>
-									<p class="d-none d-sm-block" data-animate="fadeInUp" data-delay="200">Create just what you need for your Perfect Website. Choose from a wide range of Elements &amp; simply put them on our Canvas.</p>
-								</div>
-							</div>
-							<div class="swiper-slide-bg" style="background-image: url('https://trikayaretreat.com/wp-content/uploads/2020/05/img1-1.jpg');"></div>
+							<div class="swiper-slide-bg" style="background-image: url('public/theme/images/slider/dweej-2.jpg');"></div>
 						</div>
 					
 						<div class="swiper-slide dark">
-							<div class="container">
-								<div class="slider-caption">
-									<h2 data-animate="fadeInUp">Great Performance</h2>
-									<p class="d-none d-sm-block" data-animate="fadeInUp" data-delay="200">You'll be surprised to see the Final Results of your Creation &amp; would crave for more.</p>
-								</div>
-							</div>
-							<div class="swiper-slide-bg" style="background-image: url('https://trikayaretreat.com/wp-content/uploads/2020/05/img2-1.jpg'); background-position: center top;"></div>
+							<div class="swiper-slide-bg" style="background-image: url('public/theme/images/slider/dweej-1.jpg'); background-position: center top;"></div>
                         </div>
-                        <div class="swiper-slide dark">
-							<div class="container">
-								<div class="slider-caption">
-									<h2 data-animate="fadeInUp">Great Performance</h2>
-									<p class="d-none d-sm-block" data-animate="fadeInUp" data-delay="200">You'll be surprised to see the Final Results of your Creation &amp; would crave for more.</p>
-								</div>
-							</div>
-							<div class="swiper-slide-bg" style="background-image: url('https://trikayaretreat.com/wp-content/uploads/2020/05/img3-1.jpg'); background-position: center top;"></div>
-						</div>
 					</div>
 					<div class="slider-arrow-left"><i class="icon-angle-left"></i></div>
 					<div class="slider-arrow-right"><i class="icon-angle-right"></i></div>

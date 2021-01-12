@@ -26,7 +26,7 @@
 						</div>
 
 						<!-- Slide 2 -->
-						<div class="swiper-slide dark bg-color" style="background:  url('public/theme/images/resort/hero-bg-3.jpg') no-repeat center center; background-position: bottom; background-size: cover;">
+						{{-- <div class="swiper-slide dark bg-color" style="background:  url('public/theme/images/resort/hero-bg-3.jpg') no-repeat center center; background-position: bottom; background-size: cover;">
 							<div class="container" style="z-index: 2;">
 								<div class="row h-100 align-items-center py-5">
 									<div class="col-md-6">
@@ -39,7 +39,7 @@
 									</div>
 								</div>
 							</div>
-						</div>
+						</div> --}}
 					</div>
 					<div class="slider-arrow-left"><i class="icon-angle-left"></i></div>
 					<div class="slider-arrow-right"><i class="icon-angle-right"></i></div>

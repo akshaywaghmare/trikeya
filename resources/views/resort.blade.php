@@ -69,7 +69,8 @@
                 </div>
                 <div class="portfolio-desc">
                     <h3><a href="{{route('dweej')}}"> Dweej - The ECO Villa </a></h3>
-                    <p>Assertively leverage existing integrated communities after turnkey quality vectors. Assertively coordinate sustainable quality.</p>
+                    <p>Dweej takes you back in time where homes were built using materials and technology that blend
+                        into the welcoming arms of Mother Nature.</p>
                 </div>
             </div>
         </article>
@@ -90,7 +91,8 @@
                 </div>
                 <div class="portfolio-desc">
                     <h3><a href="{{route('yahvi')}}">Yahvi - The Forest Abode  </a></h3>
-                    <p>Assertively leverage existing integrated communities after turnkey quality vectors. Assertively coordinate sustainable quality.</p>
+                    <p>Yahvi is a two-bedroom abode overlooking the Shirota forest. Both bedrooms have access to private
+                        sitting areas and lush green lawns with gardens.</p>
                 </div>
             </div>
         </article>
@@ -110,7 +112,8 @@
                 </div>
                 <div class="portfolio-desc">
                     <h3><a href="{{route('camping-in-the-clouds')}}">Camping In The Clouds</a></h3>
-                    <p>Assertively leverage existing integrated communities after turnkey quality vectors. Assertively coordinate sustainable quality.</p>
+                    <p>Camping @ Trikaya Retreat is for nature lovers who would like to take a day or two off from the daily
+                        rigors and surrender to the lure of forest life.</p>
                 </div>
             </div>
         </article>
@@ -130,7 +133,8 @@
                 </div>
                 <div class="portfolio-desc">
                     <h3><a href="{{route('day-in-the-woods')}}">Days In The Woods</a></h3>
-                    <p>Assertively leverage existing integrated communities after turnkey quality vectors. Assertively coordinate sustainable quality.</p>
+                    <p>Proximity to Pune and Mumbai makes Trikaya Retreat an ideal destination to spend a day amidst the
+                        enticing woods of the Western Ghats.</p>
                 </div>
             </div>
         </article>
@@ -147,56 +151,44 @@
     <ul class="testimonials-grid grid-1 grid-md-2 resort">
         <li class="grid-item">
             <div class="testimonial">
-                <div class="testi-image">
-                    <a href="#"><img src="https://randomuser.me/api/portraits/men/32.jpg" alt="Customer Testimonails"></a>
-                </div>
                 <div class="testi-content">
-                    <p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam quibusdam cum libero illo rerum!</p>
+                    <p>This is very exotic place we had recently visited . This place has its own heritage where one can enjoy their selves with colleagues. And the food serve here is really good specially the breakfast. They serve healthy breakfast. We really enjoyed a lot.	</p>
                     <div class="testi-meta">
-                        John Doe
-                        <span>XYZ Inc.</span>
+                        Santosh joshi 
+                        <span>Google.com</span>
                     </div>
                 </div>
             </div>
         </li>
         <li class="grid-item">
             <div class="testimonial">
-                <div class="testi-image">
-                    <a href="#"><img src="https://randomuser.me/api/portraits/women/44.jpg" alt="Customer Testimonails"></a>
-                </div>
                 <div class="testi-content">
-                    <p>Natus voluptatum enim quod necessitatibus quis expedita harum provident eos obcaecati id culpa corporis molestias.</p>
+                    <p>Excellent place for one day picnic, Near Pune, Drive from Pune to Kamshet is wonderful, Full of scenic beauty, We were glued to that place. lush green carpet around the earth with rain, breeze and so many waterfalls around. Special thanks to Mr. Anil and Mrs. Archana. Raghu and his staff.</p>
                     <div class="testi-meta">
-                        Collis Ta'eed
-                        <span>Envato Inc.</span>
+                        MridulaJ3 
+                        <span>Tripadvisor</span>
                     </div>
                 </div>
             </div>
         </li>
         <li class="grid-item">
             <div class="testimonial">
-                <div class="testi-image">
-                    <a href="#"><img src="https://randomuser.me/api/portraits/men/97.jpg" alt="Customer Testimonails"></a>
-                </div>
                 <div class="testi-content">
-                    <p>Fugit officia dolor sed harum excepturi ex iusto magnam asperiores molestiae qui natus obcaecati facere sint amet.</p>
+                    <p>The place the management is awesome. At Trikaya you will be treated very well, humble people with amazing service. Nice barbeque and Personal camp fire. Weekend well spent with an amazing trek and another small trek to sunset point. Thank you guys. </p>
                     <div class="testi-meta">
-                        Mary Jane
-                        <span>Google Inc.</span>
+                        purushotamp2015 
+                        <span>Tripadvisor</span>
                     </div>
                 </div>
             </div>
         </li>
         <li class="grid-item">
             <div class="testimonial">
-                <div class="testi-image">
-                    <a href="#"><img src="https://randomuser.me/api/portraits/women/47.jpg" alt="Customer Testimonails"></a>
-                </div>
                 <div class="testi-content">
-                    <p>Similique fugit repellendus expedita excepturi iure perferendis provident quia eaque. Repellendus, vero numquam?</p>
+                    <p>The property is tastefully done, with attention to every little aspect. The staff was absolutely brilliant and ensured that every little requirement was looked after. The food had a rustic authentic touch to it, which is rarely found in the city life we lead. Special thanks to the owners, Mr & Mrs. Pillai for taking special care of us, right from the time of booking to our checkout.</p>
                     <div class="testi-meta">
-                        Steve Jobs
-                        <span>Apple Inc.</span>
+                        Akshay
+                        <span>Booking.com</span>
                     </div>
                 </div>
             </div>
