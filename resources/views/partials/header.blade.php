@@ -9,12 +9,12 @@
 
 						<!-- Logo
 						============================================= -->
-						<div id="logo" class="order-lg-2 col-auto px-0 mr-lg-0">
+						<div id="logo" class=" col-auto px-0 mr-lg-5 mr-5">
                         <a href="{{route('home')}}"  class="standard-logo" data-dark-logo="{{asset('public/theme/images/logo-trikeya.png')}}"><img src="{{asset('public/theme/images/logo-trikeya.png')}}" alt="Canvas Logo"></a>
 							<a href="{{route('home')}}" class="retina-logo" data-dark-logo="{{asset('public/theme/images/logo-trikeya.png')}}"><img src="{{asset('public/theme/images/logo-trikeya.png')}}" alt="Canvas Logo"></a>
 						</div><!-- #logo end -->
 
-						<div class="header-misc order-lg-3 col-auto col-lg-5 px-0 justify-content-end">
+						<div class="header-misc  col-auto col-lg-5 px-0 justify-content-end">
 							<a href="https://www.asiatech.in/booking_engine/index3.php?token=MjYyOA==" target="_blank" class="button-link  font-weight-semibold ls1 py-3 px-4"><div>Book Now</div></a>
 							<a href="https://www.facebook.com/TrikayaRetreat" target="_blank" class="social-icon si-facebook si-small si-light mb-0"><i class="icon-facebook"></i><i class="icon-facebook"></i></a>
 							<a href="https://www.instagram.com/trikayaretreat/" target="_blank" class="social-icon si-instagram si-small si-light mb-0"><i class="icon-instagram"></i><i class="icon-instagram"></i></a>
@@ -26,7 +26,7 @@
 
 						<!-- Primary Navigation
 						============================================= -->
-						<nav class="primary-menu order-lg-1 col-lg-5 px-0">
+						<nav class="primary-menu order-lg-1 col-lg-5 px-0 ml-5">
 
 							<!-- Menu Left -->
 							<ul class="menu-container">

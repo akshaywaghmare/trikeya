@@ -61,9 +61,10 @@
 
 						<h2 class="mx-auto bottommargin" style="max-width: 700px; font-size: 40px;">Welcome To Trikaya Retreat - Kamshet</h2>
 
-						<p class="lead mx-auto bottommargin" style="max-width: 800px;">Trikaya is an ideal holiday destination, nestled in the foothills of the Shirota forests, last of the mighty hills amidst the Sahyadri ranges, built on a hilltop at an altitude of 2226ft above sea level, deep in the western ghats overlooking the Kundali Dam, we offer you an abode in the clouds.</p>
+						<p class="lead mx-auto " style="max-width: 800px;">Trikaya is an ideal holiday destination, nestled in the foothills of the Shirota forests, last of the mighty hills amidst the Sahyadri ranges, built on a hilltop at an altitude of 2226ft above sea level, deep in the western ghats overlooking the Kundali Dam, we offer you an abode in the clouds.</p>
+						<a class="bottommargin" href="{{route('resort')}}">Read More</a>
 						<div class=" text-center  pb-5">
-							<img src="{{asset('public/theme/images/sign.png')}}" alt="" width="16%">
+							<img src="{{asset('public/theme/images/sign.png')}}" alt="" width="20%">
 						</div>
 
 						<div class="clear"></div>
@@ -462,7 +463,7 @@
 
 
 				<div class="container mt-5">
-					<h3>What Client Says</h3>
+					<h3>Review & Testimonials</h3>
 				
 					<ul class="testimonials-grid grid-1 grid-md-2 resort">
 						<li class="grid-item">
@@ -511,13 +512,30 @@
 						</li>
 					</ul>
 				</div>
+
+				<div class="container">
+					<div class="col-md-12">
+                        <div class="promo promo-light p-4 p-md-5 ">
+                            <div class="row align-items-center">
+                                <div class="col-12 col-lg">
+                                    <h3>Book Your Ideal Holiday Destination</h3>
+                                    <span>we offer you an abode in the clouds.</span>
+                                </div>
+                                <div class="col-12 col-lg-auto mt-4 mt-lg-0">
+                                    <a href="https://www.asiatech.in/booking_engine/index3.php?token=MjYyOA==" target="_blank" class="button button-large button-circle button-black m-0">Book Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+				</div>
 				
 
                 
 
 
 
-				<div class="section bg-transparent  mb-0">
+				<div class="section bg-transparent  mb-0 pt-0 ">
 					<div class="container">
 						<div class="d-flex justify-content-between align-items-center">
 							<div class="heading-block border-bottom-0 mb-0" style="max-width: 700px">
@@ -552,10 +570,9 @@
 					<div class="container">
 						<div class="heading-block" style="max-width: 500px">
 							<h3 class="font-weight-bold nott mb-4" style="font-size: 42px; letter-spacing: -1px;">Locate Us</h3>
-							
 						</div>
 					</div>
-					<div id="google-map5" style="height: 400px;" class="gmap" data-address="New York, USA" data-zoom="7"></div>
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3775.7614459426986!2d73.46495101531121!3d18.853271963833823!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bdd5562b6fdf1f7%3A0x552648e30726c00!2sTrikaya%20Retreat%20-%20Kamshet!5e0!3m2!1sen!2sin!4v1610596710353!5m2!1sen!2sin" width="1920" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 				</div>
 
 			</div>

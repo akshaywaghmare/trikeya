@@ -333,8 +333,8 @@
                         <div class="promo promo-light p-4 p-md-5 ">
                             <div class="row align-items-center">
                                 <div class="col-12 col-lg">
-                                    <h3>Try Premium Free for <span>30 Days</span> and you'll never regret it!</h3>
-                                    <span>Starts at just <em>$9.99/month</em> afterwards. No Ads, No Gimmicks and No SPAM. Just Real Content.</span>
+                                    <h3>Book Your Ideal Holiday Destination</h3>
+                                    <span>we offer you an abode in the clouds.</span>
                                 </div>
                                 <div class="col-12 col-lg-auto mt-4 mt-lg-0">
                                     <a href="https://www.asiatech.in/booking_engine/index3.php?token=MjYyOA==" target="_blank" class="button button-large button-circle button-black m-0">Book Now</a>
@@ -342,6 +342,7 @@
                             </div>
                         </div>
                     </div>
+
 
 
                     <div class="col-md-12">

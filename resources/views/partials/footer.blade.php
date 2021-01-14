@@ -8,9 +8,9 @@
 				<div class="footer-widgets-wrap">
 					<div class="row">
 
-						<div class="col-lg-3 col-md-3 col-6">
+						<div class="col-lg-5 col-md-5 col-6">
 							<a href="#"><img src="{{asset('public/theme/images/resort/logo-transparent.png')}}" alt="Logo Footer" class="mb-2" height="115px"></a>
-							<p class="text-white-50">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, nesciunt excepturi dolor. Animi, voluptate.</p>
+							<p class="text-white-50">Trikaya Retreat- Kamshet is an ideal holiday destination, nestled in the foothills of the Shirota forests, last of the mighty hills amidst the Sahyadri ranges, Built on a hill top at an altitude of 2226ft above sea level, deep in the western ghats overlooking the Kundali Dam, we offer you an abode in the clouds.</p>
 						</div>
 
 						<div class="col-lg-2 col-md-3 col-6">
@@ -41,19 +41,7 @@
 
 							</div>
 						</div>
-						<div class="col-lg-2 col-md-3 col-6">
-							<div class="widget clearfix">
-
-								<h3 class="ls0 h5 mb-4">Open Hours</h3>
-
-								<ul class="list-unstyled iconlist ml-0">
-									<li class="mb-2"><a href="#" class="text-white-50">Monday - Saturday</a></li>
-									<li class="mb-2"><a href="#" class="text-white-50">6:30 - 20:00</a></li>
-									<li class="mb-2"><a href="#" class="text-white-50">Sunday Closed</a></li>
-								</ul>
-
-							</div>
-						</div>
+						
 
 						<div class="col-lg-3 col-md-4">
 							<div class="widget clearfix">
@@ -62,7 +50,7 @@
 
 								<div>
 									<address class="font-primary">
-										Sr. No. 15, Village Thoran, On main Kamshet <br> Jambhavli Road, Taluka Maval <br> Kamshet, Pune - 410405<br>
+										Sr. No. 15, Village Thoran, On main Kamshet <br> Jambhavli Road, Taluka Maval, <br> Kamshet, Pune - 410405
 									</address>
 									<h3 class="mb-3"><a href="tel:+01273123456" class="text-white"><i class="icon-call mr-1 position-relative" style="font-size: 22px; top:2px;"></i> +91 - 8605245000</a></h3>
 								</div>

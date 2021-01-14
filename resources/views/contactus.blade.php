@@ -96,14 +96,14 @@
 						
 							<div class="widget border-0 pt-0">
 
-								<a href="#" class="social-icon si-small si-dark si-facebook">
+								<a href="https://www.facebook.com/TrikayaRetreat" target="_blank" class="social-icon si-small si-dark si-facebook">
 									<i class="icon-facebook"></i>
 									<i class="icon-facebook"></i>
 								</a>
 
-								<a href="#" class="social-icon si-small si-dark si-gplus">
-									<i class="icon-gplus"></i>
-									<i class="icon-gplus"></i>
+								<a href="https://www.instagram.com/trikayaretreat/" target="_blank" class="social-icon si-small si-dark si-instagram">
+									<i class="icon-instagram"></i>
+									<i class="icon-instagram"></i>
 								</a>
 
 							</div>
@@ -121,7 +121,7 @@
                         
                     </div>
                 </div>
-                <div id="google-map5" style="height: 400px;" class="gmap" data-address="New York, USA" data-zoom="7"></div>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3775.7614459426986!2d73.46495101531121!3d18.853271963833823!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bdd5562b6fdf1f7%3A0x552648e30726c00!2sTrikaya%20Retreat%20-%20Kamshet!5e0!3m2!1sen!2sin!4v1610596710353!5m2!1sen!2sin" width="1920" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
             </div>
 		</section><!-- #content end -->
 
